@@ -1,1 +1,894 @@
-{"sections":{"dynamic_slideshow":{"type":"dynamic-slideshow","blocks":{"slide-1":{"type":"slide","settings":{"background_image":"shopify:\/\/shop_images\/BANNER-LG_LIFESTYLE-NATIVO-5_1.jpg","mobile_background_image":"shopify:\/\/shop_images\/BANNER-XS_LIFESTYLE-NATIVO-1_5b1c7a6a-b218-4d21-8e40-04c960366345.jpg","title":"","text":"","color":"#1d1d1d","link":"","text_alignment":"left","button_one_label":"","button_one_link":"","button_one_style":"primary","button_two_label":"","button_two_link":"","button_two_style":"secondary","show_overlay":false,"overlay_color":"#000000","overlay_opacity":1}},"slide-2":{"type":"slide","disabled":true,"settings":{"title":"Slide","text":"Introduce customers to your shop with lifestyle and product imagery","color":"#1d1d1d","link":"","text_alignment":"left","button_one_label":"Button","button_one_link":"","button_one_style":"primary","button_two_label":"","button_two_link":"","button_two_style":"primary","show_overlay":true,"overlay_color":"#000000","overlay_opacity":4}},"slide-3":{"type":"slide","disabled":true,"settings":{"title":"Slide","text":"Introduce customers to your shop with lifestyle and product imagery","color":"#ffffff","link":"","text_alignment":"center","button_one_label":"Button","button_one_link":"","button_one_style":"primary","button_two_label":"","button_two_link":"","button_two_style":"secondary","show_overlay":true,"overlay_color":"#000000","overlay_opacity":20}},"slide-4":{"type":"slide","disabled":true,"settings":{"title":"Slide","text":"Introduce customers to your shop with lifestyle and product imagery","color":"#1d1d1d","link":"","text_alignment":"left","button_one_label":"Button","button_one_link":"","button_one_style":"primary","button_two_label":"","button_two_link":"","button_two_style":"secondary","show_overlay":true,"overlay_color":"#000000","overlay_opacity":5}}},"block_order":["slide-1","slide-2","slide-3","slide-4"],"settings":{"enable_autoplay":false,"autoplay_duration":9,"slideshow_width":"full","slideshow_height":"original","slideshow_height_mobile":"x-large","slideshow_text_below_image":false}},"39bc0ec6-58d8-403d-b27f-8df8523515be":{"type":"dynamic-promo-grid","blocks":{"template--15473911300148__39bc0ec6-58d8-403d-b27f-8df8523515be-1665144023faca1740-0":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/CATEGORIA-HOME-NATIVO_PERRO_3a3c71be-e8cc-4eef-a349-13222f10caaa.jpg","background_position":"center-center","title":"Perro","text":"","color":"#4d4d4d","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":1}},"template--15473911300148__39bc0ec6-58d8-403d-b27f-8df8523515be-1665144023faca1740-1":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/CATEGORIA-HOME-NATIVO_GATO_8633bb82-e5a9-46b2-8dd5-2e191f123f84.jpg","background_position":"center-center","title":"Gato","text":"","color":"#4d4d4d","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"#b25050","opacity":50}},"template--15473911300148__39bc0ec6-58d8-403d-b27f-8df8523515be-1665144023faca1740-2":{"type":"promotion","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Diseno_sin_titulo_58.png","background_position":"center-center","title":"Salmón","text":"","color":"#4d4d4d","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}},"template--15473911300148__39bc0ec6-58d8-403d-b27f-8df8523515be-1665144023faca1740-3":{"type":"promotion","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Diseno_sin_titulo_59.png","background_position":"center-center","title":"Bacalao","text":"","color":"#ffffff","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}}},"block_order":["template--15473911300148__39bc0ec6-58d8-403d-b27f-8df8523515be-1665144023faca1740-0","template--15473911300148__39bc0ec6-58d8-403d-b27f-8df8523515be-1665144023faca1740-1","template--15473911300148__39bc0ec6-58d8-403d-b27f-8df8523515be-1665144023faca1740-2","template--15473911300148__39bc0ec6-58d8-403d-b27f-8df8523515be-1665144023faca1740-3"],"settings":{"title":"Nuestras Categorías","section_height":"small","section_columns":2,"text_alignment":"top-center"}},"f76738b2-f7b1-4bfd-8f66-a4ec7faa8cdd":{"type":"dynamic-image-with-text","settings":{"section_heading":"","image":"shopify:\/\/shop_images\/thumbnail_1.png","crop":"top","desktop_height":"600px","mobile_height":"natural","desktop_image_alignment":"left","mobile_image_alignment":"top","heading":"Aliméntalo como te alimentas tú: naturalmente.","subheading":"<p>Para veterinarios y expertos nutricionistas la alimentación natural cocinada con ingredientes de calidad humana es la mejor comida que le puedes dar. En Nativo utilizamos ingredientes que encontrarías en tu propia cocina y te lo ponemos muy fácil para mejor su bienestar a la vez que disfrutará como nunca.<\/p><p>- Ingredientes naturales de grado humano<\/p><p>- Sin conservantes ni químicos<\/p><p>- Sin procesados ni cereales <\/p><p>- Elaborado por nutricionistas<\/p><p>- Sin refrigeración y súper cómodo para ti <\/p>","text_alignment":"left","button_label":"Saber más","button_link":"shopify:\/\/pages\/que-es-nativo"}},"3791fa67-b4c4-42e4-92a8-fe96bb48b0b9":{"type":"dynamic-slideshow","blocks":{"template--15473911300148__3791fa67-b4c4-42e4-92a8-fe96bb48b0b9-16674149999bcc4152-0":{"type":"slide","disabled":true,"settings":{"background_image":"shopify:\/\/shop_images\/Banner_de_Envios_Gratis_Para_Tienda_Online_Moderna_Amarillo_6912_x_2456_px_4.png","title":"","text":"","color":"#ffffff","link":"","text_alignment":"center","button_one_label":"","button_one_link":"","button_one_style":"primary","button_two_label":"","button_two_link":"","button_two_style":"primary","show_overlay":true,"overlay_color":"#e6729f","overlay_opacity":1}},"template--15473911300148__3791fa67-b4c4-42e4-92a8-fe96bb48b0b9-16674149999bcc4152-1":{"type":"slide","disabled":true,"settings":{"title":"Slide 2","text":"Introduce customers to your shop with lifestyle and product imagery","color":"#ffffff","link":"","text_alignment":"center","button_one_label":"Button","button_one_link":"","button_one_style":"primary","button_two_label":"","button_two_link":"","button_two_style":"primary","show_overlay":true,"overlay_color":"#000000","overlay_opacity":50}}},"block_order":["template--15473911300148__3791fa67-b4c4-42e4-92a8-fe96bb48b0b9-16674149999bcc4152-0","template--15473911300148__3791fa67-b4c4-42e4-92a8-fe96bb48b0b9-16674149999bcc4152-1"],"settings":{"enable_autoplay":true,"autoplay_duration":5,"slideshow_width":"full","slideshow_height":"adapt","slideshow_height_mobile":"adapt","slideshow_text_below_image":true}},"e50583c5-5044-4798-a6bd-65534b028adc":{"type":"dynamic-rich-text","settings":{"width":"wide","title":"Mejora su calidad de vida","text":"<p>A diferencia de los piensos habituales, que utilizan procesos en que los ingredientes pierden gran parte de sus nutrientes, sabores y texturas, nuestra alimentación natural deshidratada a baja temperatura permite retener todas estas propiedades. Logrando los mejores resultados. Nativo hace que cada día sea su mejor día.<\/p>","heading_size":"large","text_alignment":"center"}},"feeb820e-be78-4832-90ac-1f7ceb7981b8":{"type":"dynamic-promo-grid","disabled":true,"blocks":{"template--15473911300148__feeb820e-be78-4832-90ac-1f7ceb7981b8-1666766231098961f4-0":{"type":"promotion","settings":{"background_position":"bottom-left","title":"Mejora su calidad de vida","text":"A diferencia de los piensos habituales, que utilizan procesos en que los ingredientes pierden gran parte de sus nutrientes, sabores y texturas, nuestra alimentación natural deshidratada a baja temperatura permite retener todas estas propiedades. Logrando los mejores resultados. Nativo hace que cada día sea su mejor día.","color":"#161616","block_link":"","button_text":"","button_style":"primary","show_overlay":true,"background":"#ffffff","opacity":1}},"template--15473911300148__feeb820e-be78-4832-90ac-1f7ceb7981b8-1666766231098961f4-1":{"type":"promotion","disabled":true,"settings":{"background_position":"center-center","title":"Grid","text":"Use this section to welcome customers to your store, say a bit about your brand, or share news.","color":"#4d4d4d","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}},"template--15473911300148__feeb820e-be78-4832-90ac-1f7ceb7981b8-1666766231098961f4-2":{"type":"promotion","disabled":true,"settings":{"background_position":"center-center","title":"Grid","text":"Use this section to welcome customers to your store, say a bit about your brand, or share news.","color":"#4d4d4d","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}},"template--15473911300148__feeb820e-be78-4832-90ac-1f7ceb7981b8-1666766231098961f4-3":{"type":"promotion","disabled":true,"settings":{"background_position":"center-center","title":"Grid","text":"Use this section to welcome customers to your store, say a bit about your brand, or share news.","color":"#4d4d4d","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}}},"block_order":["template--15473911300148__feeb820e-be78-4832-90ac-1f7ceb7981b8-1666766231098961f4-0","template--15473911300148__feeb820e-be78-4832-90ac-1f7ceb7981b8-1666766231098961f4-1","template--15473911300148__feeb820e-be78-4832-90ac-1f7ceb7981b8-1666766231098961f4-2","template--15473911300148__feeb820e-be78-4832-90ac-1f7ceb7981b8-1666766231098961f4-3"],"settings":{"title":"","section_height":"small","section_columns":1,"text_alignment":"center-center"}},"dynamic_highlights_banner":{"type":"dynamic-highlights-banner","blocks":{"highlight-1":{"type":"highlight","settings":{"icon":"icon-delivery","image":"shopify:\/\/shop_images\/icono-facil-de-preparar.png","title":"Mejora su vitalidad y estado general","text":"","link":""}},"highlight-4":{"type":"highlight","settings":{"icon":"icon-pin","image":"shopify:\/\/shop_images\/Diseno_sin_titulo__55_-removebg-preview.png","title":"Mejora su digestión","text":"","link":""}},"highlight-2":{"type":"highlight","settings":{"icon":"icon-cell-phone","image":"shopify:\/\/shop_images\/icono--saludable.png","title":"Piel y pelaje sano y brillante","text":"","link":""}},"highlight-3":{"type":"highlight","disabled":true,"settings":{"icon":"icon-heart","image":"shopify:\/\/shop_images\/icono-hidratante.png","title":"Preparado por veterinarios","text":"","link":""}}},"block_order":["highlight-1","highlight-4","highlight-2","highlight-3"],"settings":{"section_spacing":true,"section_width":"full-width","icon_layout":"center","color":"#1d1d1d","icon_color":"#046e82","background_color":"#ffffff","mobile_layout":"slider"}},"a53e6cbd-cb3c-4485-884b-757337897d51":{"type":"dynamic-image-with-text","settings":{"section_heading":"","image":"shopify:\/\/shop_images\/20210403_114322.jpg","crop":"center","desktop_height":"natural","mobile_height":"natural","desktop_image_alignment":"left","mobile_image_alignment":"top","heading":"Nativo | Historias reales","subheading":"<p>Clientes reales comparten su experiencia con alimentación natural y auténtica. Conoce sus historias.<\/p>","text_alignment":"left","button_label":"Historias reales","button_link":"shopify:\/\/collections\/frontpage"}},"dynamic_featured_collection":{"type":"dynamic-featured-collection","blocks":{"view-all-card":{"type":"view_all_card","settings":{"image":"shopify:\/\/shop_images\/FOTO-PARA-BLOQUE-DE-PRODUCTOS.jpg","text_alignment":"center-center","pre_heading":"","heading":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":9}}},"block_order":["view-all-card"],"settings":{"title":"Recetas que le encantan","layout":"slideshow","collection":"perro","product_count":9,"cta_label":"","cta_button_style":"primary"}},"dynamic_promo_grid-2":{"type":"dynamic-promo-grid","disabled":true,"blocks":{"promotion-1":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/BLOCK-BANNER-LG_Alimento-natural-nutritivo-y-delicioso_3a87f465-f03e-495a-a23f-66eb9e8d86a0.jpg","background_position":"center-center","title":"Grid","text":"Use this section to welcome customers to your store, say a bit about your brand, or share news.","color":"#ffffff","block_link":"","button_text":"","button_style":"secondary","show_overlay":false,"background":"rgba(0,0,0,0)","opacity":50}},"promotion-2":{"type":"promotion","disabled":true,"settings":{"background_position":"center-center","title":"Grid","text":"Use this section to welcome customers to your store, say a bit about your brand, or share news.","color":"#ffffff","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"rgba(0,0,0,0)","opacity":50}}},"block_order":["promotion-1","promotion-2"],"settings":{"title":"Beneficios de Producto","section_height":"medium","section_columns":1,"text_alignment":"center-left"}},"dynamic_promo_grid-3":{"type":"dynamic-promo-grid","disabled":true,"blocks":{"promotion-1":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/BLOCK-BANNER-LG_Como-funciona-el-Proceso-de-Deshidratacion-nativo_1_d3abf461-4788-400f-a8b6-cad94f0f2a25.jpg","background_position":"center-center","title":"","text":"","color":"#1e1e1e","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}}},"block_order":["promotion-1"],"settings":{"title":"¿Cómo lo hacemos?","section_height":"medium","section_columns":1,"text_alignment":"center-left"}},"dynamic_promo_mosaic":{"type":"dynamic-promo-mosaic","disabled":true,"blocks":{"promotion-1":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/person-tilts-a-box-full-of-vegetables-towards-the-camera.jpg","title":"Productos de proximidad","text":"Seleccionamos los mejores productos de los agricultores, remaderos y pescadores de nuestra zona.","color":"#e6729f","block_link":"","button_text":"","button_style":"primary","show_overlay":true,"background":"#3e3e3e","opacity":85}},"promotion-2":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/tattooed-hands-chop-food-with-gloves.jpg","title":"Cortamos los Alimentos","text":"Preparamos todos los alimentos para el proceso de deshidratación .","color":"#e6729f","block_link":"","button_text":"","button_style":"primary","show_overlay":true,"background":"#3e3e3e","opacity":85}},"promotion-3":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/shutterstock_2115461621.jpg","title":"Deshidratamos los alimentos","text":"","color":"#e6729f","block_link":"","button_text":"","button_style":"primary","show_overlay":true,"background":"#3e3e3e","opacity":85}},"promotion-4":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/teaspoons-full-of-spices.jpg","title":"Controlamos la calidad","text":"Queremos lo mejor para nuestros peludos","color":"#e6729f","block_link":"","button_text":"","button_style":"primary","show_overlay":true,"background":"#3e3e3e","opacity":85}}},"block_order":["promotion-1","promotion-2","promotion-3","promotion-4"],"settings":{"title":"","section_height":"small","text_alignment":"center-center","maintain_aspect_ratio":true,"compress_blocks":false}},"924af03f-21cd-4f25-909b-a29d35570ab6":{"type":"dynamic-promo-grid","disabled":true,"blocks":{"template--15473911300148__924af03f-21cd-4f25-909b-a29d35570ab6-16667665763ce286e3-0":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/Anadir_un_titulo_2.jpg","background_position":"center-center","title":"100% Natural","text":"","color":"#4d4d4d","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}},"template--15473911300148__924af03f-21cd-4f25-909b-a29d35570ab6-16667665763ce286e3-1":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/Anadir_un_titulo_2.jpg","background_position":"center-center","title":"Comida casera","text":"","color":"#4d4d4d","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}},"template--15473911300148__924af03f-21cd-4f25-909b-a29d35570ab6-16667665763ce286e3-2":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/Anadir_un_titulo_2.jpg","background_position":"center-center","title":"Preparación Sencilla","text":"","color":"#4d4d4d","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}},"template--15473911300148__924af03f-21cd-4f25-909b-a29d35570ab6-16667665763ce286e3-3":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/Anadir_un_titulo_2.jpg","background_position":"center-center","title":"No ocupa espacio","text":"","color":"#4d4d4d","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}}},"block_order":["template--15473911300148__924af03f-21cd-4f25-909b-a29d35570ab6-16667665763ce286e3-0","template--15473911300148__924af03f-21cd-4f25-909b-a29d35570ab6-16667665763ce286e3-1","template--15473911300148__924af03f-21cd-4f25-909b-a29d35570ab6-16667665763ce286e3-2","template--15473911300148__924af03f-21cd-4f25-909b-a29d35570ab6-16667665763ce286e3-3"],"settings":{"title":"Nuestras Recetas","section_height":"small","section_columns":2,"text_alignment":"top-left"}},"d3409483-d6b6-4e8d-a221-658b133b729d":{"type":"dynamic-promo-grid","disabled":true,"blocks":{"template--15473911300148__d3409483-d6b6-4e8d-a221-658b133b729d-166746216582642012-0":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/Anade_el_producto_2.png","background_position":"center-center","title":"","text":"","color":"#4d4d4d","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}},"template--15473911300148__d3409483-d6b6-4e8d-a221-658b133b729d-166746216582642012-1":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/Anade_el_producto_1.png","background_position":"center-center","title":"","text":"","color":"#4d4d4d","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}},"template--15473911300148__d3409483-d6b6-4e8d-a221-658b133b729d-166746216582642012-2":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/Anade_el_producto_3.png","background_position":"center-center","title":"","text":"","color":"#4d4d4d","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}},"template--15473911300148__d3409483-d6b6-4e8d-a221-658b133b729d-166746216582642012-3":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/Anade_el_producto_2.jpg","background_position":"center-center","title":"","text":"","color":"#4d4d4d","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}}},"block_order":["template--15473911300148__d3409483-d6b6-4e8d-a221-658b133b729d-166746216582642012-0","template--15473911300148__d3409483-d6b6-4e8d-a221-658b133b729d-166746216582642012-1","template--15473911300148__d3409483-d6b6-4e8d-a221-658b133b729d-166746216582642012-2","template--15473911300148__d3409483-d6b6-4e8d-a221-658b133b729d-166746216582642012-3"],"settings":{"title":"Comida Casera en 5 minutos","section_height":"small","section_columns":4,"text_alignment":"top-left"}},"dynamic_shoppable_image":{"type":"dynamic-shoppable-image","disabled":true,"blocks":{"hotspot-1":{"type":"hotspot","settings":{"product":"ternera-deshidratada-natural","x_axis":42,"y_axis":79}},"hotspot-2":{"type":"hotspot","settings":{"product":"pack-de-muestras-nativo-perro","x_axis":100,"y_axis":0}},"hotspot-3":{"type":"hotspot","settings":{"product":"bacalao-noruego-con-lino-y-calabaza-natural-deshidratado-perro","x_axis":61,"y_axis":5}},"hotspot-4":{"type":"hotspot","settings":{"product":"pollo-deshidratado-natural","x_axis":2,"y_axis":19}},"hotspot-5":{"type":"hotspot","settings":{"product":"pescado-azul-natural-deshidratado-perro","x_axis":87,"y_axis":48}}},"block_order":["hotspot-1","hotspot-2","hotspot-3","hotspot-4","hotspot-5"],"settings":{"title":"¿Cuál prefieres?","image":"shopify:\/\/shop_images\/Diseno_sin_titulo_61.png","image_width":"two-thirds","link_text":"View product","textbox_title":"Nuestros mejores sabores","textbox_subheading":"<p>haz tu primer pedido hoy y llevate un 10% de descuento <\/p>","textbox_button_label":"¡Lo quiero!","textbox_button_link":"","textbox_button_style":"primary","textbox_text_alignment":"center","textbox_text_position":"left"}},"dynamic_blog_posts":{"type":"dynamic-blog-posts","settings":{"title":"Nuestros Artículos","blog":"news","show_date":true,"show_author":false,"show_excerpt":true}},"dynamic_search":{"type":"dynamic-search","disabled":true,"settings":{"title":"Buscar","text":"¿No encuentras lo que estás buscando?","placeholder":"¿Qué estás buscando?","filter_search_by":"disabled","enable_live_search":true,"enable_live_search_images":true,"enable_live_search_articles_pages":false,"position":"center-center","show-overlay":false,"color":"#ffffff","background":"#000000","opacity":50}}},"order":["dynamic_slideshow","39bc0ec6-58d8-403d-b27f-8df8523515be","f76738b2-f7b1-4bfd-8f66-a4ec7faa8cdd","3791fa67-b4c4-42e4-92a8-fe96bb48b0b9","e50583c5-5044-4798-a6bd-65534b028adc","feeb820e-be78-4832-90ac-1f7ceb7981b8","dynamic_highlights_banner","a53e6cbd-cb3c-4485-884b-757337897d51","dynamic_featured_collection","dynamic_promo_grid-2","dynamic_promo_grid-3","dynamic_promo_mosaic","924af03f-21cd-4f25-909b-a29d35570ab6","d3409483-d6b6-4e8d-a221-658b133b729d","dynamic_shoppable_image","dynamic_blog_posts","dynamic_search"]}
+{
+  "sections": {
+    "dynamic_slideshow": {
+      "type": "dynamic-slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "slide",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/BANNER-LG_LIFESTYLE-NATIVO-5_1.jpg",
+            "mobile_background_image": "shopify:\/\/shop_images\/BANNER-XS_LIFESTYLE-NATIVO-1_5b1c7a6a-b218-4d21-8e40-04c960366345.jpg",
+            "title": "",
+            "text": "",
+            "color": "#1d1d1d",
+            "link": "",
+            "text_alignment": "left",
+            "button_one_label": "",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "secondary",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 1
+          }
+        },
+        "slide-2": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "title": "Slide",
+            "text": "Introduce customers to your shop with lifestyle and product imagery",
+            "color": "#1d1d1d",
+            "link": "",
+            "text_alignment": "left",
+            "button_one_label": "Button",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": true,
+            "overlay_color": "#000000",
+            "overlay_opacity": 4
+          }
+        },
+        "slide-3": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "title": "Slide",
+            "text": "Introduce customers to your shop with lifestyle and product imagery",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "Button",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "secondary",
+            "show_overlay": true,
+            "overlay_color": "#000000",
+            "overlay_opacity": 20
+          }
+        },
+        "slide-4": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "title": "Slide",
+            "text": "Introduce customers to your shop with lifestyle and product imagery",
+            "color": "#1d1d1d",
+            "link": "",
+            "text_alignment": "left",
+            "button_one_label": "Button",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "secondary",
+            "show_overlay": true,
+            "overlay_color": "#000000",
+            "overlay_opacity": 5
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-2",
+        "slide-3",
+        "slide-4"
+      ],
+      "settings": {
+        "enable_autoplay": false,
+        "autoplay_duration": 9,
+        "slideshow_width": "full",
+        "slideshow_height": "original",
+        "slideshow_height_mobile": "x-large",
+        "slideshow_text_below_image": false
+      }
+    },
+    "39bc0ec6-58d8-403d-b27f-8df8523515be": {
+      "type": "dynamic-promo-grid",
+      "blocks": {
+        "template--15473911300148__39bc0ec6-58d8-403d-b27f-8df8523515be-1665144023faca1740-0": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CATEGORIA-HOME-NATIVO_PERRO_3a3c71be-e8cc-4eef-a349-13222f10caaa.jpg",
+            "background_position": "center-center",
+            "title": "Perro",
+            "text": "",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 1
+          }
+        },
+        "template--15473911300148__39bc0ec6-58d8-403d-b27f-8df8523515be-1665144023faca1740-1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CATEGORIA-HOME-NATIVO_GATO_8633bb82-e5a9-46b2-8dd5-2e191f123f84.jpg",
+            "background_position": "center-center",
+            "title": "Gato",
+            "text": "",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "#b25050",
+            "opacity": 50
+          }
+        },
+        "template--15473911300148__39bc0ec6-58d8-403d-b27f-8df8523515be-1665144023faca1740-2": {
+          "type": "promotion",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_58.png",
+            "background_position": "center-center",
+            "title": "Salmón",
+            "text": "",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        },
+        "template--15473911300148__39bc0ec6-58d8-403d-b27f-8df8523515be-1665144023faca1740-3": {
+          "type": "promotion",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_59.png",
+            "background_position": "center-center",
+            "title": "Bacalao",
+            "text": "",
+            "color": "#ffffff",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--15473911300148__39bc0ec6-58d8-403d-b27f-8df8523515be-1665144023faca1740-0",
+        "template--15473911300148__39bc0ec6-58d8-403d-b27f-8df8523515be-1665144023faca1740-1",
+        "template--15473911300148__39bc0ec6-58d8-403d-b27f-8df8523515be-1665144023faca1740-2",
+        "template--15473911300148__39bc0ec6-58d8-403d-b27f-8df8523515be-1665144023faca1740-3"
+      ],
+      "settings": {
+        "title": "Nuestras Categorías",
+        "section_height": "small",
+        "section_columns": 2,
+        "text_alignment": "top-center"
+      }
+    },
+    "f76738b2-f7b1-4bfd-8f66-a4ec7faa8cdd": {
+      "type": "dynamic-image-with-text",
+      "settings": {
+        "section_heading": "",
+        "image": "shopify:\/\/shop_images\/thumbnail_1.png",
+        "crop": "top",
+        "desktop_height": "600px",
+        "mobile_height": "natural",
+        "desktop_image_alignment": "left",
+        "mobile_image_alignment": "top",
+        "heading": "Aliméntalo como te alimentas tú: naturalmente.",
+        "subheading": "<p>Para veterinarios y expertos nutricionistas la alimentación natural cocinada con ingredientes de calidad humana es la mejor comida que le puedes dar. En Nativo utilizamos ingredientes que encontrarías en tu propia cocina y te lo ponemos muy fácil para mejor su bienestar a la vez que disfrutará como nunca.<\/p><p>- Ingredientes naturales de grado humano<\/p><p>- Sin conservantes ni químicos<\/p><p>- Sin procesados ni cereales <\/p><p>- Elaborado por nutricionistas<\/p><p>- Sin refrigeración y súper cómodo para ti <\/p>",
+        "text_alignment": "left",
+        "button_label": "Saber más",
+        "button_link": "shopify:\/\/pages\/que-es-nativo"
+      }
+    },
+    "3791fa67-b4c4-42e4-92a8-fe96bb48b0b9": {
+      "type": "dynamic-slideshow",
+      "blocks": {
+        "template--15473911300148__3791fa67-b4c4-42e4-92a8-fe96bb48b0b9-16674149999bcc4152-0": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/Banner_de_Envios_Gratis_Para_Tienda_Online_Moderna_Amarillo_6912_x_2456_px_4.png",
+            "title": "",
+            "text": "",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": true,
+            "overlay_color": "#e6729f",
+            "overlay_opacity": 1
+          }
+        },
+        "template--15473911300148__3791fa67-b4c4-42e4-92a8-fe96bb48b0b9-16674149999bcc4152-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "title": "Slide 2",
+            "text": "Introduce customers to your shop with lifestyle and product imagery",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "Button",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": true,
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--15473911300148__3791fa67-b4c4-42e4-92a8-fe96bb48b0b9-16674149999bcc4152-0",
+        "template--15473911300148__3791fa67-b4c4-42e4-92a8-fe96bb48b0b9-16674149999bcc4152-1"
+      ],
+      "settings": {
+        "enable_autoplay": true,
+        "autoplay_duration": 5,
+        "slideshow_width": "full",
+        "slideshow_height": "adapt",
+        "slideshow_height_mobile": "adapt",
+        "slideshow_text_below_image": true
+      }
+    },
+    "e50583c5-5044-4798-a6bd-65534b028adc": {
+      "type": "dynamic-rich-text",
+      "settings": {
+        "width": "wide",
+        "title": "Mejora su calidad de vida",
+        "text": "<p>A diferencia de los piensos habituales, que utilizan procesos en que los ingredientes pierden gran parte de sus nutrientes, sabores y texturas, nuestra alimentación natural deshidratada a baja temperatura permite retener todas estas propiedades. Logrando los mejores resultados. Nativo hace que cada día sea su mejor día.<\/p>",
+        "heading_size": "large",
+        "text_alignment": "center"
+      }
+    },
+    "feeb820e-be78-4832-90ac-1f7ceb7981b8": {
+      "type": "dynamic-promo-grid",
+      "disabled": true,
+      "blocks": {
+        "template--15473911300148__feeb820e-be78-4832-90ac-1f7ceb7981b8-1666766231098961f4-0": {
+          "type": "promotion",
+          "settings": {
+            "background_position": "bottom-left",
+            "title": "Mejora su calidad de vida",
+            "text": "A diferencia de los piensos habituales, que utilizan procesos en que los ingredientes pierden gran parte de sus nutrientes, sabores y texturas, nuestra alimentación natural deshidratada a baja temperatura permite retener todas estas propiedades. Logrando los mejores resultados. Nativo hace que cada día sea su mejor día.",
+            "color": "#161616",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": true,
+            "background": "#ffffff",
+            "opacity": 1
+          }
+        },
+        "template--15473911300148__feeb820e-be78-4832-90ac-1f7ceb7981b8-1666766231098961f4-1": {
+          "type": "promotion",
+          "disabled": true,
+          "settings": {
+            "background_position": "center-center",
+            "title": "Grid",
+            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        },
+        "template--15473911300148__feeb820e-be78-4832-90ac-1f7ceb7981b8-1666766231098961f4-2": {
+          "type": "promotion",
+          "disabled": true,
+          "settings": {
+            "background_position": "center-center",
+            "title": "Grid",
+            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        },
+        "template--15473911300148__feeb820e-be78-4832-90ac-1f7ceb7981b8-1666766231098961f4-3": {
+          "type": "promotion",
+          "disabled": true,
+          "settings": {
+            "background_position": "center-center",
+            "title": "Grid",
+            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--15473911300148__feeb820e-be78-4832-90ac-1f7ceb7981b8-1666766231098961f4-0",
+        "template--15473911300148__feeb820e-be78-4832-90ac-1f7ceb7981b8-1666766231098961f4-1",
+        "template--15473911300148__feeb820e-be78-4832-90ac-1f7ceb7981b8-1666766231098961f4-2",
+        "template--15473911300148__feeb820e-be78-4832-90ac-1f7ceb7981b8-1666766231098961f4-3"
+      ],
+      "settings": {
+        "title": "",
+        "section_height": "small",
+        "section_columns": 1,
+        "text_alignment": "center-center"
+      }
+    },
+    "dynamic_highlights_banner": {
+      "type": "dynamic-highlights-banner",
+      "blocks": {
+        "highlight-1": {
+          "type": "highlight",
+          "settings": {
+            "icon": "icon-delivery",
+            "image": "shopify:\/\/shop_images\/icono-facil-de-preparar.png",
+            "title": "Mejora su vitalidad y estado general",
+            "text": "",
+            "link": ""
+          }
+        },
+        "highlight-4": {
+          "type": "highlight",
+          "settings": {
+            "icon": "icon-pin",
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo__55_-removebg-preview.png",
+            "title": "Mejora su digestión",
+            "text": "",
+            "link": ""
+          }
+        },
+        "highlight-2": {
+          "type": "highlight",
+          "settings": {
+            "icon": "icon-cell-phone",
+            "image": "shopify:\/\/shop_images\/icono--saludable.png",
+            "title": "Piel y pelaje sano y brillante",
+            "text": "",
+            "link": ""
+          }
+        },
+        "highlight-3": {
+          "type": "highlight",
+          "disabled": true,
+          "settings": {
+            "icon": "icon-heart",
+            "image": "shopify:\/\/shop_images\/icono-hidratante.png",
+            "title": "Preparado por veterinarios",
+            "text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "highlight-1",
+        "highlight-4",
+        "highlight-2",
+        "highlight-3"
+      ],
+      "settings": {
+        "section_spacing": true,
+        "section_width": "full-width",
+        "icon_layout": "center",
+        "color": "#1d1d1d",
+        "icon_color": "#046e82",
+        "background_color": "#ffffff",
+        "mobile_layout": "slider"
+      }
+    },
+    "a53e6cbd-cb3c-4485-884b-757337897d51": {
+      "type": "dynamic-image-with-text",
+      "settings": {
+        "section_heading": "",
+        "image": "shopify:\/\/shop_images\/20210403_114322.jpg",
+        "crop": "center",
+        "desktop_height": "natural",
+        "mobile_height": "natural",
+        "desktop_image_alignment": "left",
+        "mobile_image_alignment": "top",
+        "heading": "Nativo | Historias reales",
+        "subheading": "<p>Clientes reales comparten su experiencia con alimentación natural y auténtica. Conoce sus historias.<\/p>",
+        "text_alignment": "left",
+        "button_label": "Historias reales",
+        "button_link": "shopify:\/\/collections\/frontpage"
+      }
+    },
+    "dynamic_featured_collection": {
+      "type": "dynamic-featured-collection",
+      "blocks": {
+        "view-all-card": {
+          "type": "view_all_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FOTO-PARA-BLOQUE-DE-PRODUCTOS.jpg",
+            "text_alignment": "center-center",
+            "pre_heading": "",
+            "heading": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 9
+          }
+        }
+      },
+      "block_order": [
+        "view-all-card"
+      ],
+      "settings": {
+        "title": "Recetas que le encantan",
+        "layout": "slideshow",
+        "collection": "perro",
+        "product_count": 9,
+        "cta_label": "",
+        "cta_button_style": "primary"
+      }
+    },
+    "dynamic_promo_grid-2": {
+      "type": "dynamic-promo-grid",
+      "disabled": true,
+      "blocks": {
+        "promotion-1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BLOCK-BANNER-LG_Alimento-natural-nutritivo-y-delicioso_3a87f465-f03e-495a-a23f-66eb9e8d86a0.jpg",
+            "background_position": "center-center",
+            "title": "Grid",
+            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+            "color": "#ffffff",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "secondary",
+            "show_overlay": false,
+            "background": "rgba(0,0,0,0)",
+            "opacity": 50
+          }
+        },
+        "promotion-2": {
+          "type": "promotion",
+          "disabled": true,
+          "settings": {
+            "background_position": "center-center",
+            "title": "Grid",
+            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+            "color": "#ffffff",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "rgba(0,0,0,0)",
+            "opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "promotion-1",
+        "promotion-2"
+      ],
+      "settings": {
+        "title": "Beneficios de Producto",
+        "section_height": "medium",
+        "section_columns": 1,
+        "text_alignment": "center-left"
+      }
+    },
+    "dynamic_promo_grid-3": {
+      "type": "dynamic-promo-grid",
+      "disabled": true,
+      "blocks": {
+        "promotion-1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BLOCK-BANNER-LG_Como-funciona-el-Proceso-de-Deshidratacion-nativo_1_d3abf461-4788-400f-a8b6-cad94f0f2a25.jpg",
+            "background_position": "center-center",
+            "title": "",
+            "text": "",
+            "color": "#1e1e1e",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "promotion-1"
+      ],
+      "settings": {
+        "title": "¿Cómo lo hacemos?",
+        "section_height": "medium",
+        "section_columns": 1,
+        "text_alignment": "center-left"
+      }
+    },
+    "dynamic_promo_mosaic": {
+      "type": "dynamic-promo-mosaic",
+      "disabled": true,
+      "blocks": {
+        "promotion-1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/person-tilts-a-box-full-of-vegetables-towards-the-camera.jpg",
+            "title": "Productos de proximidad",
+            "text": "Seleccionamos los mejores productos de los agricultores, remaderos y pescadores de nuestra zona.",
+            "color": "#e6729f",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": true,
+            "background": "#3e3e3e",
+            "opacity": 85
+          }
+        },
+        "promotion-2": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tattooed-hands-chop-food-with-gloves.jpg",
+            "title": "Cortamos los Alimentos",
+            "text": "Preparamos todos los alimentos para el proceso de deshidratación .",
+            "color": "#e6729f",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": true,
+            "background": "#3e3e3e",
+            "opacity": 85
+          }
+        },
+        "promotion-3": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shutterstock_2115461621.jpg",
+            "title": "Deshidratamos los alimentos",
+            "text": "",
+            "color": "#e6729f",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": true,
+            "background": "#3e3e3e",
+            "opacity": 85
+          }
+        },
+        "promotion-4": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/teaspoons-full-of-spices.jpg",
+            "title": "Controlamos la calidad",
+            "text": "Queremos lo mejor para nuestros peludos",
+            "color": "#e6729f",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": true,
+            "background": "#3e3e3e",
+            "opacity": 85
+          }
+        }
+      },
+      "block_order": [
+        "promotion-1",
+        "promotion-2",
+        "promotion-3",
+        "promotion-4"
+      ],
+      "settings": {
+        "title": "",
+        "section_height": "small",
+        "text_alignment": "center-center",
+        "maintain_aspect_ratio": true,
+        "compress_blocks": false
+      }
+    },
+    "924af03f-21cd-4f25-909b-a29d35570ab6": {
+      "type": "dynamic-promo-grid",
+      "disabled": true,
+      "blocks": {
+        "template--15473911300148__924af03f-21cd-4f25-909b-a29d35570ab6-16667665763ce286e3-0": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anadir_un_titulo_2.jpg",
+            "background_position": "center-center",
+            "title": "100% Natural",
+            "text": "",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        },
+        "template--15473911300148__924af03f-21cd-4f25-909b-a29d35570ab6-16667665763ce286e3-1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anadir_un_titulo_2.jpg",
+            "background_position": "center-center",
+            "title": "Comida casera",
+            "text": "",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        },
+        "template--15473911300148__924af03f-21cd-4f25-909b-a29d35570ab6-16667665763ce286e3-2": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anadir_un_titulo_2.jpg",
+            "background_position": "center-center",
+            "title": "Preparación Sencilla",
+            "text": "",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        },
+        "template--15473911300148__924af03f-21cd-4f25-909b-a29d35570ab6-16667665763ce286e3-3": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anadir_un_titulo_2.jpg",
+            "background_position": "center-center",
+            "title": "No ocupa espacio",
+            "text": "",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--15473911300148__924af03f-21cd-4f25-909b-a29d35570ab6-16667665763ce286e3-0",
+        "template--15473911300148__924af03f-21cd-4f25-909b-a29d35570ab6-16667665763ce286e3-1",
+        "template--15473911300148__924af03f-21cd-4f25-909b-a29d35570ab6-16667665763ce286e3-2",
+        "template--15473911300148__924af03f-21cd-4f25-909b-a29d35570ab6-16667665763ce286e3-3"
+      ],
+      "settings": {
+        "title": "Nuestras Recetas",
+        "section_height": "small",
+        "section_columns": 2,
+        "text_alignment": "top-left"
+      }
+    },
+    "d3409483-d6b6-4e8d-a221-658b133b729d": {
+      "type": "dynamic-promo-grid",
+      "disabled": true,
+      "blocks": {
+        "template--15473911300148__d3409483-d6b6-4e8d-a221-658b133b729d-166746216582642012-0": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anade_el_producto_2.png",
+            "background_position": "center-center",
+            "title": "",
+            "text": "",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        },
+        "template--15473911300148__d3409483-d6b6-4e8d-a221-658b133b729d-166746216582642012-1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anade_el_producto_1.png",
+            "background_position": "center-center",
+            "title": "",
+            "text": "",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        },
+        "template--15473911300148__d3409483-d6b6-4e8d-a221-658b133b729d-166746216582642012-2": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anade_el_producto_3.png",
+            "background_position": "center-center",
+            "title": "",
+            "text": "",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        },
+        "template--15473911300148__d3409483-d6b6-4e8d-a221-658b133b729d-166746216582642012-3": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anade_el_producto_2.jpg",
+            "background_position": "center-center",
+            "title": "",
+            "text": "",
+            "color": "#4d4d4d",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--15473911300148__d3409483-d6b6-4e8d-a221-658b133b729d-166746216582642012-0",
+        "template--15473911300148__d3409483-d6b6-4e8d-a221-658b133b729d-166746216582642012-1",
+        "template--15473911300148__d3409483-d6b6-4e8d-a221-658b133b729d-166746216582642012-2",
+        "template--15473911300148__d3409483-d6b6-4e8d-a221-658b133b729d-166746216582642012-3"
+      ],
+      "settings": {
+        "title": "Comida Casera en 5 minutos",
+        "section_height": "small",
+        "section_columns": 4,
+        "text_alignment": "top-left"
+      }
+    },
+    "dynamic_shoppable_image": {
+      "type": "dynamic-shoppable-image",
+      "disabled": true,
+      "blocks": {
+        "hotspot-1": {
+          "type": "hotspot",
+          "settings": {
+            "product": "ternera-deshidratada-natural",
+            "x_axis": 42,
+            "y_axis": 79
+          }
+        },
+        "hotspot-2": {
+          "type": "hotspot",
+          "settings": {
+            "product": "pack-de-muestras-nativo-perro",
+            "x_axis": 100,
+            "y_axis": 0
+          }
+        },
+        "hotspot-3": {
+          "type": "hotspot",
+          "settings": {
+            "product": "bacalao-noruego-con-lino-y-calabaza-natural-deshidratado-perro",
+            "x_axis": 61,
+            "y_axis": 5
+          }
+        },
+        "hotspot-4": {
+          "type": "hotspot",
+          "settings": {
+            "product": "pollo-deshidratado-natural",
+            "x_axis": 2,
+            "y_axis": 19
+          }
+        },
+        "hotspot-5": {
+          "type": "hotspot",
+          "settings": {
+            "product": "pescado-azul-huevo-platano",
+            "x_axis": 87,
+            "y_axis": 48
+          }
+        }
+      },
+      "block_order": [
+        "hotspot-1",
+        "hotspot-2",
+        "hotspot-3",
+        "hotspot-4",
+        "hotspot-5"
+      ],
+      "settings": {
+        "title": "¿Cuál prefieres?",
+        "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_61.png",
+        "image_width": "two-thirds",
+        "link_text": "View product",
+        "textbox_title": "Nuestros mejores sabores",
+        "textbox_subheading": "<p>haz tu primer pedido hoy y llevate un 10% de descuento <\/p>",
+        "textbox_button_label": "¡Lo quiero!",
+        "textbox_button_link": "",
+        "textbox_button_style": "primary",
+        "textbox_text_alignment": "center",
+        "textbox_text_position": "left"
+      }
+    },
+    "dynamic_blog_posts": {
+      "type": "dynamic-blog-posts",
+      "settings": {
+        "title": "Nuestros Artículos",
+        "blog": "news",
+        "show_date": true,
+        "show_author": false,
+        "show_excerpt": true
+      }
+    },
+    "dynamic_search": {
+      "type": "dynamic-search",
+      "disabled": true,
+      "settings": {
+        "title": "Buscar",
+        "text": "¿No encuentras lo que estás buscando?",
+        "placeholder": "¿Qué estás buscando?",
+        "filter_search_by": "disabled",
+        "enable_live_search": true,
+        "enable_live_search_images": true,
+        "enable_live_search_articles_pages": false,
+        "position": "center-center",
+        "show-overlay": false,
+        "color": "#ffffff",
+        "background": "#000000",
+        "opacity": 50
+      }
+    }
+  },
+  "order": [
+    "dynamic_slideshow",
+    "39bc0ec6-58d8-403d-b27f-8df8523515be",
+    "f76738b2-f7b1-4bfd-8f66-a4ec7faa8cdd",
+    "3791fa67-b4c4-42e4-92a8-fe96bb48b0b9",
+    "e50583c5-5044-4798-a6bd-65534b028adc",
+    "feeb820e-be78-4832-90ac-1f7ceb7981b8",
+    "dynamic_highlights_banner",
+    "a53e6cbd-cb3c-4485-884b-757337897d51",
+    "dynamic_featured_collection",
+    "dynamic_promo_grid-2",
+    "dynamic_promo_grid-3",
+    "dynamic_promo_mosaic",
+    "924af03f-21cd-4f25-909b-a29d35570ab6",
+    "d3409483-d6b6-4e8d-a221-658b133b729d",
+    "dynamic_shoppable_image",
+    "dynamic_blog_posts",
+    "dynamic_search"
+  ]
+}
